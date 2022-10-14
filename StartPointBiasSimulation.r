@@ -1,3 +1,4 @@
+library(RRW)
 # Start point bias plots
     # Set overlap values
     overlaps <- seq(0,1.5,0.025)
